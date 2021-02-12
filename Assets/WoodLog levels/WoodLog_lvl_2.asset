@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c042912cf80a7448a98bc8ec2414aaa, type: 3}
+  m_Name: WoodLog_lvl_2
+  m_EditorClassIdentifier: 
+  bossName: default
+  speedRotation: 150
+  durationRotate: 1
+  durationStart: 1
+  durationStop: 1
+  chanceChangeDirRot: 0
+  chanceSpawnApple: 100
+  numApple: 12
+  chanceSpawnKnife: 0
+  numKnife: 1
+  skinLog: {fileID: 21300000, guid: 2703395681b630147a0c056fa3acf18e, type: 3}
+  applePrefab: {fileID: 2452233841391080053, guid: 84bd6aef1478e4a4caffeec173ccfa3e,
+    type: 3}
+  knifeCount: 5
+  type: 0
+  knifeSkinReward: {fileID: 0}

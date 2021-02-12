@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WoodLog
+  - BladeKnife
+  - HandleKnife
+  - inWoodKnife
+  - Knife
+  - Apple
+  - WholeApple
+  - FxTemporaire
+  - Sprite
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wood Log
+  - UnTouch
+  - Knife
+  - Apple
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgorund
+    uniqueID: 1086570441
+    locked: 0
+  - name: WoodLog
+    uniqueID: 2808360173
+    locked: 0
+  - name: Knife
+    uniqueID: 763509553
+    locked: 0
+  - name: LoseScreen
+    uniqueID: 679538311
+    locked: 0
